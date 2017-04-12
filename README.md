@@ -11,5 +11,6 @@ Also this project is created for the Evergreen HS Capstone Project.
 * [Raspberry Pi 3](https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1ASRM_enUS592US592&ion=1&espv=2&ie=UTF-8#q=raspberry+pi3+purchase)
 * [Particle](https://www.particle.io/products/hardware/photon-wifi-dev-kit)
 ## Getting Started
-</Image of pi login>
+![SSH login screen](https://github.com/Warrentechstem-farm/Particle-pi/blob/master/pics/test.png)
+
 It is expected that you are on this Pi login screen
