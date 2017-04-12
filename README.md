@@ -12,4 +12,4 @@ Also this project is created for the Evergreen HS Capstone Project.
 * [Particle](https://www.particle.io/products/hardware/photon-wifi-dev-kit)
 ## Getting Started
 </Image of pi login>
-It is expected that you are on this Pi login screen
+It is expected that you are on this Pi login screen with only a network connection plugged in.
